@@ -1,3 +1,6 @@
+#Open Addressing Examples
+This is an experiment to compare efficiency between linear and double hashing methods. Below are my calculated results:
+
 Input source 1: random number
 
 alpha        linear    double
